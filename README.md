@@ -1,2 +1,2 @@
-# pythonsamples
-This repo contains sample code in java and related frameworks.
+# Python Samples
+This repo contains sample code in python and related frameworks.
